@@ -19,7 +19,7 @@ role: Postdoctoral researcher in political communication
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Bern
-    url: https://www.stanford.edu/](https://www.ikmb.unibe.ch/
+    url: https://www.ikmb.unibe.ch/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on the relationship between gender and media in political communication, political psychology, and health communication. I specialize in mixed-methods designs that combine a wide range of methodological approaches, including observational and experimental designs, quantitative and qualitative analyses, and computational methods.
