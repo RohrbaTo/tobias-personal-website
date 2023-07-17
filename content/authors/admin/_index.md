@@ -75,11 +75,11 @@ social:
     link: uploads/CV_TobiasRohrbach2023_english_academic.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: tobiasrohrbach@hotmail.com
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research focuses on the relationship between gender and media in political communication, political psychology, and health communication. I specialize in mixed-methods designs that combine a wide range of methodological approaches, including observational and experimental designs, quantitative and qualitative analyses, and computational methods.
 {style="text-align: justify;"}
