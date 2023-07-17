@@ -37,15 +37,12 @@ education:
     - course: Joint PhD in communication research and political science
       institution: University of Fribourg (CH) and University of Amsterdam
       year: 2023
-   - course: Master of Advances Studies (MAS) in data science
+    - course: Master of Advanced Studies (MAS) in data science
       institution: University of Applied Sciences Bern
       year: 2021
-    - course: Master in communication research
+    - course: Master in communication and media research
       institution: University of Fribourg
       year: 2018
-    - course: Bachelor in communication and media research
-      institution: University of Fribourg
-      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
